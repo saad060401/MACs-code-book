@@ -1,0 +1,419 @@
+	David S.
+I have a much better security camera system for my home's exterior but thought I might try one of these cams indoors since I have the Ring alarm system and a Ring Doorbell already. I made the silly mistake, I guess, of assuming there would be some kind of integration with other Ring products - there isn't. None. Not a single thing.
+
+It seems like common sense to me that they'd integrate in a couple of ways. I assumed that I'd be able to tell these cameras to only sense motion if the alarm was armed. Nope.
+
+I figured I could at least set it to detect motion when I wasn't in the house. Nope. There isn't even any kind of proximity setting for it to even know if you're home or not. They are not location aware in any way. The Ring alarm system isn't either, so I suppose I should have known better already.
+
+I also assumed that if my Ring alarm went off the cameras would automatically come on and start recording. Nope!
+
+The only motion option at all is to not alert you to motion during specific hours. Note, this doesn't stop motion detection during these hours, it only stops the alerts.
+
+Motion detection/recording is only an on or off thing... absolutely no options whatsoever.
+
+Annoyed by the lack of integration I still mounted the camera in my great room. I figured I try it for a few days and see how long the battery would actually last with motion recording on. This is a high traffic area so I wasn't holding my breath... and sure enough, after not even 1 full day the battery is down to 80%. This is with all the 'battery saving options' on. This was only a test as I don't actually want recording of any kind going on in my house while I'm home unless the alarm is armed or going off.
+
+With absolutely no options, no integration with Ring alarm and no settings to limit it's recording this thing is really only good for one thing; on demand video with no automatic recording. So, the thing is turned off now, doing nothing. I can still activate it from my phone to occasionally check my house isn't burning down.
+
+Hopefully someday Ring will update the software and provide some common sense integration with it's other devices.
+
+This is all a shame as the build of the camera is quite good considering the low price as is the video quality. The audio isn't great but it never is on cameras of any kind.
+
+***UPDATE***
+Ring support reached out to me directly almost immediately after I posted my review (Good on them) and told me how to link the Alarm, somewhat, to the camera. You have to go into your Base Station settings, then linked devices, then you can set the cameras to record when the alarm goes off - but only then. Make sure you have the updated app that just came out to do this. I didn't. Again, the setting is in your base station, not in the cameras.
+
+This solved probably the biggest issue I had with the camera. The rest of my review is still accurate though per Ring support. Hopefully they'll add the other much needed features in the near future.
+
+***ANOTHER UPDATE***
+From Ring Support: "The Modes feature will be released in November and will allow you to have the option to record motion only if the Ring Alarm System is set to Away Mode". This will be a great update and should have been available on launch. I wonder if they are only just now thinking of it from all the negative feedback and reviews, but glad it's 'coming soon' either way.
+
+***ONE MORE UPDATE***
+Ring provided me early access to the 'Modes Feature' and I've been using it for the past few days. It resolves all the issues I had with the alarm integration. With modes you can set your cameras to only record when your alarm is set. They can all be set independently and act differently depending on if you have your alarm set to off, home, or away. For instance, you can set your exterior cameras to record when your alarm is set to home mode, but have your interior cameras are turned off. You can set your interior cameras to only record while in away mode, etc. etc. Or any combination. The cameras can now be set the same way motion and door sensors can. This is a great improvement. They haven't told me exactly when this feature will be made public but have said it will be released 'by the end of the year'.
+
+I've increased the rating from 3 stars to 5. This software update really has resolved every issue I had with the cameras. I've now ordered and installed an additional 6 for my home.
+
+***LAST UPDATE***
+Having the modes features and my cameras set to only pop on and record during an alarm event (which is rare) and be off at all other times, I've had 2 months to evaluate battery life, almost exactly 60 days now. All my cameras were down to below 10% battery level when I checked them last night. Given the rate of battery drain I had expected them to last 3 months - though 2+ still isn't bad. I have two external cameras on my entry gates outside with the solar panel add-on, they stay fully charged at all times even though it's pretty much been non-stop dark and cloudy days here since installation. They are set to record all motion and since they point at a street they record events dozens of times per day... so if you're thinking of getting the solar panels for outdoor use, I highly recommend them.
+
+	Scooter McNutty
+This stick up camera by Ring is a simple addition to your homes security, and make sure you check with your home insurance company. Very easy to install, I had this up and running within 30 minutes. I did purchase the battery option as the location I wanted to place it does not get a lot of sun for the solar option. That being said, I purchased a second battery. This way, I have one that is fully charged at all times. Swapping the batteries takes only a couple of minutes and then the depleted battery goes on the charger. The subscription pricing is nominal, but I do like that they offer an annual plan. I so much prefer to pay annually than monthly. The application for your phone is easy to use and is great to have access visually to what is happening at the location of the camera at a moments notice. Fully adjustable to your needs. I will likely add more as time goes on.
+
+	GuitarRebel
+Before I start my revised review, let me state that there's been a lot of news lately about people hacking into Ring cameras, but this only happens when someone installs a new camera and doesn't update the default username and password (or has an extremely weak password which is easy for a hacker to guess). This is like leaving your front door open while on vacation. Your camera is sending and receiving signals over a wireless network. Anyone within range of the signal can potentially be a threat if you don't have good encryption (username and good password) set up on your camera. There's no logical reason for a Ring owner to not do this. Ring even stresses changing the default settings during the initial setup process. Bottom line, don't blame the car manufacturer if you leave the keys in your car and it gets stolen.
+----------------------------------------------------------------------------------------------------------------------------------------
+Recently, I wrote a rather scathing 1 star review about the problems I was having with my new Ring Stick Up Wireless Battery Cam. I'm no stranger to wireless cams, having 10 hooked up and running seamlessly on another network as I write this, but I was totally frustrated with the connection reliability, not only with my two upper end cellphones, but also on my Galaxy Tab and Amazon Show. More times than not, the software wouldn't connect with the camera but when it did, the video was choppy. Notifications were also hit and miss. I have a great wireless mesh router system throughout the house, so after doing all the troubleshooting I could think of, I assumed it was due to faulty hardware or software. I gave up and started the return process through Amazon. It was a new product after all and new products sometimes are really buggy. Plus, I read other negative reviews which seemed to justify my thoughts and actions.
+Then I got an email from a gentleman from Ring saying he read my review and asked if I'd be willing to let him help troubleshoot my issues with me. Although I had already started the return process, I was willing. It was refreshing to know Ring Customer Service was genuinely interested in troubleshooting possible defects in their newest product.
+Together, we isolated the issue within about 20 minutes. It turned out it wasn't the camera or software after all.
+Anyone having connection issues should do what he advised me to do. Open up the Ring app and click on the 3 little dots to the upper right of the camera screenshot, then select settings. From there go to Device Health and check the signal strength. Although I had a good mesh hub (inside) within 10 feet of my camera (mounted outside), my signal strength was RSSI -64. He stated that the signal was so weak it was on the cusp of what is needed for the camera to even minimally operate. This prompted me to reboot my wireless mesh system and reset/reconnect the camera. When it came back online, my signal strength went to -39, a vast improvement.
+A quick check of all of my devices showed the camera and software working flawlessly. Hat's off to Ring.
+Anyone who may be having connection or audio/video/notification difficulties, check your signal strength to the camera via the Ring software, even if your router is close by. You just might be surprised.
+***UPDATE***
+Camera (and software) is still working flawlessly on all devices.
+Ring has now updated their Windows 10 desktop app (which previously didn't work with the new wireless battery cams) and it works flawlessly as well.
+Observations.
+Notifications on my phone, Tab and Amazon devices (Show, Echo, Dot) are almost instantaneous. Alexa says "Someone is at your front door." Very cool.
+I bought an extra battery, but it looks like it'll be at least a few months before I need to swap it out, even with the intensive testing I've done on the Stick Up Cam. Battery life seems excellent.
+I have one zone blocked out and that seems to work fine as well. I also have it mounted a couple of feet above and to the left of my front door, tilting downward at an angle. Even though residential traffic is visible in the field of view, I've not gotten one trigger due to street activity. The motion sensor is triggered by anything coming into the bottom half of it's field of view. From the time someone triggers the motion sensor until the time I'm aware of it is 1-2 seconds. That's about as close to real time as you can get. It's not given me a false alarm even once.
+Telling my Amazon Show to "(Alexa), show front door cam" takes about 5 seconds to complete.
+I can also watch triggered video clips and get a live feed while away from home without any extra setup to my network. It's totally automatic.
+Because of the customer service I received from Ring and the fact the product is much better than I originally thought, I will be expanding my Ring family soon.
+
+	Nana
+Had another security camera system. It was awful. Their customer service blamed the poor performance on our wifi. We returned that system and got a Ring system. The Ring system is AWESOME and works great on our wifi. Very fast, very good video quality, and no more clips of nothing. I can connect to the Ring camera live view in less than 2 seconds. The setup was easy, no sync modules, just put the camera up and connect it. The Ring app is great. I purchased the Ring plug in cameras. They have long and even really long cords included. The camera mounts are nice too. So glad we went with Ring. AWESOME. I highly recommend this product.
+
+	Amazon Customer
+I have 4 of these. 3 have solar charging. Don't bother with large solar panel unless you have dozens of events per day; the small will be fine. Without solar and 3 events per day the batteries last 3 months between charges. Otherwise they are great little cameras. My main complaint is the lack of a 2K or 4K camera after all this time. To properly ID an unknown perp it's going to need 4K to submit to police. 1080 just doesn't really cut it unless it's a "usual suspect". I have fiber, no data limits, and 5G backup. Give me a 4K camera option. I have a 2K doorbell camera and it's noticeably better. Second complaint: motion detection / zones are meh. Lots of things missed beyond 30ft, but I guess that fits in with the 1080p resolution. It wouldn't have mattered anyway.
+
+	LoneWolf
+have not ever experienced ring devices other than pressing someone else's door bell.
+Amazon black friday deals at Ring. Ok, I'm game,
+Ordered the ring doorbell with echo show device bundle. Now I am hooked in the ecosystem.
+Saw this deal, and I have used security motion detection lights with solar before, and jumped at the chance for this combo.
+Once I got the doorbell and alexa talking to each other, and both apps on the phone, and working perfectly (it's not that challenging to set up, just takes patience and a few youtube videos...), I endeavored to get this up on the garage apex. Easy to install even when I was prone on the roof.
+I first charged the battery by removing from the cam, and it has a USB micro B socket. Once fully charged, back in the cam and did set up on the app.
+then left it in a box until I could get up the roof. A couple of screws each into the facia, getting the correct view angle to the driveway, and the USB C connection between devices was perfect. The clips to wrap the excess cord was a blessing (I just added a cable tie around the clipped cord to keep it secure, then secured the connection plug to the base of the solar panel with another tiewrap and checked the view on the app. Amazing view! and you can refine the sensitivity with a zone adjustment on the app, so you are not getting notices just because someone rides a bike on the road. This is just perfect in every way I need.
+There are regular deals specials and bundles, so keep aware for the next discount. Ring has their act together and I appreciate ring and amazon for the integration and bundle offers.
+
+	jleady
+I bought four of these with solar panels. I did have to exchange one camera and one solar panel that did not work correctly. I was immediately shipped replacements and received them within 2 days. The camera that I returned recognized the solar panel was connected but would not charge from the solar panel. The solar panel did not provide power.
+I have one placed on the front of my 2 story house that the 2nd story blocks direct sunlight. I was concerned this time of year it would not get enough sunlight because the sun is behind the house all day. That is not the case. It charges to 100% even on cloudy days and to 93% on rainy days. I can live with that. So far I’m impressed, we will see how they hold up and if we start developing issues. If we develop any other issues I will come back and update.
+
+I also have all cameras set to the most sensitive motion setting and when a camera or the Ring doorbell senses motion they all start recording until motion is no longer detected. We have no issues with battery life each day.
+
+I had zero WiFi connectivity issues and all connections have been stable. We use an Orbi mesh system with 2 satellites.
+
+We also use these with an Echo Show 10. When someone rings the doorbell our show instantly shows us the doorbell view and we can immediately communicate with whoever is at the door.
+I can also tell it to show me any of the other cameras and the echo show instantly shows me that that cameras live view.
+
+One word of advice though. It does require a subscription if you want to retain recorded events. The subscription is affordable and for all the available add on options it less expensive than big name monitoring companies. They do now offer monitoring services for this system and it is 1/3 the cost of the big retail company we were using. I advise you to look into all subscription, camera, power, and mounting options before you purchase to make sure it will fit your needs. This system fit our needs and we will be adding other available devices to this system.
+
+	Scott George
+I bought this camera as a refurb at a greatly discounted price. The first purchase worked out well enough for me to purchase a 2nd during a Black Friday deal. The Ring Stick Up Cam has proven to be a reliable and versatile addition to my home security setup. Its sleek design and easy installation process make it a user-friendly choice for both indoor and outdoor surveillance. The camera's high-definition video quality ensures crisp and clear footage, providing a sense of confidence in monitoring my property. The motion detection feature, coupled with customizable alerts, adds an extra layer of security, alerting me to any potential activity. What sets the Ring Stick Up Cam apart is its seamless integration with the Ring app, allowing remote access and real-time monitoring from my smartphone. Whether I'm at home or away, the Ring Stick Up Cam provides peace of mind and a valuable tool for keeping an eye on my surroundings.
+
+	HFL
+So I was forced to replace all of my cameras from another well known brand that had been great up till about a year or less ago. Since that company wants to blame the uses rather than their cameras and they don't do what I bought them for anymore I was forced to remove them all. I put up many of these Ring Stick Up Cams and initial response was that they were easier to set up, and have a much better field of view and better image. On the other side of the issue is the don't have nearly the WiFi distance as the other cameras I was using. I had a hard time getting cameras even 30 ft from my router to connect. I added an addition Ring Chime Pro and that helped, but I still have one camera on my garage that still doesn't like to connect regularly. One other issue that I really am upset with is the temp that these cameras fail. At below zero temps their batteries go from 96 or so percent immediately to less then 10% and at that point they will not connect to WiFi anymore. The other brand of cams used Lithium batteries and worked down to -30 sometimes even -40, but below that they quit too. When the temps go back into the +20s or so the batteries go right back up to nearly full charge. Dilemma, to bear with these or go back to the other cameras that worked in the cold, but the notifications stopped working, for everyone that has them, not just me. Why have these if you don't get notifications of motions and/or people. Ring notification system works great and pairs with Alexa Show so I can see what is going on there, but everything quits when it gets cold. The other brand works great in the cold, but their notification system stopped working last year. What to do...
+
+	Zak
+We own a total of 4 Ring cameras and love how easy they are to set up and add to our existing Ring network. We also have a yearly plan that allows unlimited devices so we picked up this camera to add to our backyard to watch birds at our feeders. Before purchasing this battery operated model I discovered that both Ring stick up camera models are the exact same camera and that the only difference is that one comes with a charging cord and the other comes with a battery. During setup you can specify which power source to use and it will automatically download the appropriate firmware and updates. If you need to change these settings after the initial setup just follow the instruction to factory reset the device and repeat the install process. I also purchased a separate power cord and set this particular model up as a hard wired unit. Since I already have the battery that was included with it I can now operate it with permanent power or I can unplug it and use as portable camera running off the battery. The Ring app/software is easy to use and allows you to configure the settings and get live views of all the cameras. Sometimes the picture is a little grainy but I'm not sure if this is due to the camera itself or the WiFi signal. Overall I am happy with Ring camera products and love that they can easily integrated into our Alexa powered smart home.
+
+	Carmen Patton
+I watched the video on AMAZON which directed me to download the DJI Fly app from the android play store. Did that and then connected everything after charging both devices. Started he app and it said "Disconnected" indicating that the remote was not seeing the drone. Called support and found out that the Android play store does not have the correct app, this is REALLY BAD because I paid for the pro features of the app I downloaded and installed. I was directed to download the DJI Fly app from the dji.com website, did that, and retried. NOTE: You have to be houdini to get the remote to turn on and this failed MANY times while talking with support. Finally on the 8th try the remote turned on. This time it showed "CONNECTED" but the display on the DJI Fly app did not show the camera image, it was all black. The support guy told me to download some software to my PC, did that and was told to connect the drone to my PC. This allowed me to update the firmware on the drone. Did that then reconnected and was able to do a test flight. I was on the support call for a total of 1hr and 14 mins for a product that is supposed to be for beginners. VERY unhappy at how bad the instructions are and the fact that the product arrived with firmware in it that would not even allow a test flight. I write firmware/software for a living and the entire software/app experience so far tells me that the folks writing this stuff need a lot of work in the user experience area. DJI is a popular company and I was not expecting such a bad experience.
+
+	Brian
+I understand there are a ton of options for first timers with some being less expensive than the mini SE 2. However, take it from me after buying TWO other popular drones before I bought the DJI. The DJI provides an app that’s miles ahead of the competitors and it’s also a much better drone out of the box as far as maneuvering. I had this drone for just a day and it’s already proved its worth over the other popular drones. It actually works and works well. I should have saved myself the heartache and money and went with DJI to begin with.
+Customer image
+
+	Amanda5007
+5.0 out of 5 stars Love it
+Reviewed in the United States on March 12, 2024
+Style: DJI Mini 2 SEVerified Purchase
+I bought this for my 15 year old son. He’s taking a drone class in school and wanted one. It takes cool videos and love that it can find its way back to you. He took it to school and showed his teacher and his teacher confirmed it was a nice drone for the price.
+
+	DRG
+5.0 out of 5 stars great
+Reviewed in the United States on February 24, 2024
+Style: DJI Mini 2 SEVerified Purchase
+As a first time drone pilot ( but 20000 hr airline pilot) I was apprehensive about learning to fly it. I literally charged the batteries (about 1.5 hrs) and flew it like I was a pro out of the box. Flew all over the ranch, even herded cattle with it. Absolutely flawless.
+If I have any complaints it would be the app doesn't just pop up when you connect iPhone to the drone. The camera is awesome, videos incredible, auto return perfect. I love it!
+
+	W Eason
+Be aware: If you're buying this product used from Amazon and it is still "bound" to the original user (via their email), you'll likely want to get the drone "unbound" from the manufacture (DJI). Amazon customer service was not much help to me, but I emailed the Amazon invoice and serial # to DJI tech support. Followed their instructions and within a few days, I was able to "bind" the product to my name/email. If would be nice if Amazon gave you a "heads up" on this process. It's a bit of a hassle, but not too bad.
+
+I believe the drone is still functional w/o binding… but -- for various reasons -- I personally wanted ownership officially transferred to my name.
+
+As for the product itself… so far, I’m really enjoying it. As a first time drone buyer, it seems to be a good “starter.” Not top-of-the-line, but not not the least expensive either. The picture quality of 2.7K works for me -- better than 1080p but not true 4K.
+
+I’m typically not a fan of products that require use of app --mostly out of concern that the manufacturer won’t constantly update the app for bugs and advanced operating systems. But at least for now -- everything seems stable w/ my iPhone.
+
+The drone is very light (dare I say a bit "flimsy") to meet the under 249g weight requirement. Not sure how long it will last me… but the product is recommended for first time/newbie drone photographers.
+
+	Federico Carpi
+I used to buy basic drones (sigma, etc) just to play with my kids, this is the first one that I can call "pro" drone and it's just amazing, I'd suggest to buy the fly more combo since you'll have more batteries and a very useful case to carry the drone wherever you want (plus the extra propellers and the charging hub).
+
+	LF
+4 stars for easy to learn as there are so many options. First drone l, thought it might be larger than it is. Still a high quality drone. If you can swing the $299 get this drone. Worth saving a little longer if you don't have the cash in hand. 4 stars on easy tob
+
+	Fox
+DJI is an amazing company which adheres to its top notch customer service reputation. Im not gonna type alot in here but this is easily my 8ths DJI drone, theyre quality just cant be beat. Afraid you'll wreck it? BUY THE BUMPER GUARDS FOR THE PROPELLERS they make the world of difference.
+
+	User4443
+Great drone it can do anything the bigger drones do except connect to the DJI RC (remote with screen) only reason I had to return it.
+
+	francato
+I've been holding off on buying a nice drone for years. I should've pulled the trigger on one of these a long time ago. So much fun! I took this little guy to Costa Rica and filmed the best vacation footage of my life! Highly recommended!
+
+	mickey d
+Neighborhood experienced a little crime spree and we decided it was time for a camera. It was easy to install and provides clear, quality photos and video. Battery lasts about 3 months before needing a charge with the USB cord.
+I will probably add on the solar battery panel soon.
+My only gripe is that Ring has already bumped the yearly price up $10 since I purchased it a few months ago. You need the annual subscription if you want to save video.
+
+	GMAN
+I can move this camera around, which is really nice. I didn't think about it but since it's portable, it's twice as heavy and diameter to the wired versions. I didn't expect that, but in hindsight it makes sense. But, like all my Ring cameras, I like it.
+
+	S. A. Bishop
+Very easy to use and set up. Make sure if you are using a ceiling that you get the swivel base to attach it to otherwise your video will be upside down when trying to view it. Settings are few unless you upgrade which I find annoying since I already purchased the product. My clients use these around their homes when they are not rented out and have worked perfectly for them. Even using the voice worked fine for them to warn off trespassers. If you can set them out of reach of anyone who could just rip it down.
+
+	Gumdlops 
+This ring step stick up camera has frustrated me beyond anything I could ever begin to tell you. After going around with the ring every single day this past week I finally found a technician who somewhat started to make sense. He felt it was my internet speed so initially he said it was the upload speed And then after that didn't work he then said it was the download speed. But I do believe we were in I contacted my internet provider and I had them increase my download and my upload speed That did not work Then today I had them send a technician out to look over what was going on with my wireless box my wired box my router and outside aspects.the right He spent 2 hours here He rewired he changed out boxes He replaced my modem to the most current modem they have and I am pleasantly surprised to say that everything has been working for the last 10 hours. That is the longest that camera has worked. So quite obviously it was my internet. I just wished ring instead of keep sending me out cameras had initially said you know your Wi-Fi it could be your Wi-Fi and that isn't what occurred up until the last couple of conversations. So if you're having issues with that stick up camera it could be your Wi-Fi. My ring doorbell has been perfect from day one never an issue That was wired this stick up camera is solar I don't know if that has anything to do with it but truly the issue was my Wi-Fi so I wanted to be able to update everybody. Cuz my last couple have not been very nice or very good. So I love the ring stick up camera premise it is now working great and I upgraded my star review to four stars. If anything changes I will come back and update.area of the issue.
+February 9th 2020 update.
+This is the most unstable camera I have ever used. every day since this has been installed I have called ring because the camera goes offline or it takes an hour and a half to reset itself. last time I called I was on the phone with them for an hour and a half and they said that the device was defective. They sent me out a new one that was installed yesterday. At 4 p.m. by 6:25 p.m. the camera was not working again. I called ring this morning and it went from defective camera to it's my internet. If that were the case and it's my internet the ring security system wouldn't be working the ring chime wouldn't be working the ring doorbell 2 wouldn't be working my cell phone wouldn't be working my TV wouldn't be working etc etc etc. I'm ready to fling this flipping thing cuz I'm just playing tired. I called this morning and had to escalate my call to a manager while they're very nice at ring and I've said that from the get-go when somebody calls you every day for two weeks with the same issue and then today you're being told after all this time that it's not their camera and now it's my internet and it could be a firewall and it could be this then wouldn't it firewall for every single ring product that I have which is multiple? So I finally got the manager to agree to send somebody out here to figure this out. I am legally blind this morning's phone call was they wanted me to climb a ladder and reset the camera which is about 10 feet up. No can do. On top of that I've paid somebody three times to come out here to install their products to replace the cameras to install the cameras I can't keep doing this.They have agreed to send me a coupon code and communicate with Amazon home and they will send somebody outwell I'm very appreciative that they are doing this I am so frustrated with this camera. At this point I would not recommend that camera for all the money in the world now the other ring products that I have I think they're awesome. So I will update as time goes on if this can't be resolved then I'm going to send that camera back because it's worthless to me. so I dropped my review from a 5 to a 2 at this point and we'll see what happens
+I had a ring stick cam solar and a ring doorbell two wired installed last Saturday. The video is awesome the motion detection is excellent not going to lie and say I don't get some false rings but that's okay it's not a lot. What I really like is the ability with both the stick cam and the doorbell to speak to somebody who's at my door. Excellent sound excellent quality of each item. I would highly recommend and as a result of this installation I am going to do the security system for the inside of my house. I have a wired camera system for my exterior I feel ring is just as awesome as those cameras. If anything changes I will update this review.
+
+	1yzyngy
+I have a total of 5 Ring outside cameras. This one replaces an original, first release camera. The brightness and resolution of the new camera is like the difference between a primitive pinhole camera and a digital phone camera (OK, maybe a slight exaggeration…). My main frustration with Ring cameras is latency, the delay between live action and when the cameras begin recording. Sometimes, an animal (human, canine, feline, equine, whatever) is moving too fast across the field of view and all that records is a blurry trail at the beginning of a video. A useful feature would be the ability to set the amount of zoom at set-up, especially for cameras mounted at the roof edge (pretty common location. Another useful option would be a mounting base extension rod with an internal channel to route and hide the cord for wired cams. OK, you engineers and designers: get to work!
+
+	Mitchell’s
+We have 3 Outdoor Motion light cameras, the 2nd gen Ring Doorbell and a Stickup Camera(it watches the chicken coop) While we just purchased the Stick up Camera. We have had the others going on 2 years now and have been nothing happy with them. They hold up to the cold, always work, give you proper notifications when batteries need to be charged. When ever anyone mentions new outdoor lights or cameras these are my go to recommendations.
+
+	rebecca ruzek
+I like that this camera can take a picture of my entire backyard! It works very well with my ring doorbell
+That I have used for several years now and it makes me feel much safer now. Thank You!
+One person found this helpful
+
+	Paul Reeder
+I should have bought one of these years ago! This was easy to set up and it works great! Battery has to be recharged every 3 months or so but that is worth the wireless easy install.
+Don’t wait like I did for piece of mind!
+
+	Donna Pyle
+I love this small camera. It works well. Easy setup and nice you can move it easy to different areas. Great for watching pets when gone.
+
+	K
+This unit is great. We already have several Ring products but needed one more for an area that just needed some eyes on it. This is perfect and the price is great!
+
+	Emily
+I already had a Ring doorbell camera, but wanted a camera to monitor the side of my house as well! This camera was easy to install and super easy to connect to my existing Ring camera. Great purchase and great picture quality!
+
+	Kindle Customer
+This is super easy to set up. It's pretty good quality. The only down thing I've noticed so far are
+the beginning of clip recordings are blurry and takes a couple seconds to be focused. I also haven't tried to mess with any settings yet so maybe it can be fixed.
+
+	Anji
+Ring cam is really good . I have all set up cam from ring. Its very easy to install and works great.
+
+	Danette Popovich
+I was worried since reviews were mixed. But after trying it out for a week now, I'm in love. Easy to set up, charge and start recording. Picture is clear and easy to see. I would buy more and have officially joing the RING family of products 🙂
+
+	THERESA CATO
+My ring is mounted on the house to scan the back yard and I telling you it is perfect and has great night vision to see what's going on, it even alerted me a raccoon was in my canopy 🙂I do recommend this product.
+
+	Mr TV
+I have 5 stick up cameras and the door bell camera. All have held up well under the Texas heat and now the Texas cold. The online storage is good, a bit pricey, but good. I use the app on my phone almost always because it’s the easiest to get quick views. As far as using on my laptop it’s a pain in the butt. I have to signin all the time. The picture quality on the laptop is great though. I do recommend the Ring cameras because they are easy to install ( more work installing outside with power) and the pan tilt option is pretty good also. Like the rest of the Ring stuff - a bit pricy.
+
+	John Isaac Contreras
+It was easy to connect and gets WiFi pretty far away from router. The picture quality is great and the view is clear even at night.
+
+	Michelle Rode
+I love being able to see who comes up on my porch. This product is great! Affordable and easy to setup too.
+
+	Richard Morgan
+The camera is doing the job we need, but the battery dies quickly. When you purchase this device you may wish to buy an extra battery at the same time.
+
+	Liz R
+For the price, this is the best security cams out there. I have several Ring products that I've used for years and love them. So easy to install and set up on the app.
+
+	Jimbo
+Love the clarity and visual, plus it was easy to install. This us my 2nd Ring product.
+
+	DantheAmazonMan
+Ring's setup process and easy of use is better than any other camera systems I've tried. Seamlessly setup with my doorbell camera and app.
+
+	blackthorn
+So unexpected. I have not enjoyed watching anything as much as the critters at night here in Fl. The night vision is beautiful and clear. The daytime recording looks as though 3D. First bought 14 then 4 more for owls nests. 18 total, all in black. Hard wired them all. Yes I'm addicted to a pug and play, affordable, quality product with great customer service. BYW have seen no criminals in 6 months since purchased. Yeah!
+
+	Joann Ellis Conklin
+We now own 2 of these cameras and a doorbell from Ring. We have a camera on our back porch and we have one in our laundry room where our dog stays locked during the day. We are able to talk to her through the camera and we like that. Much better price then the treat throwing option
+
+	Mike Boyle
+Solid. My only issue is Wi-Fi connectivity strength. Which is not a product issue
+
+	Flatus Faceflicker
+Ring products, in my opinion, are the go to standard for home security. Easy to integrate into your current Ring setup. Provides excellent coverage and video quality. Infinitely configurable. Customer support is exemplary. Battery life is more than adequate, especially if you add a solar charger, which, don't be afraid, is easier to install than you think. If you're new to home security, don't have much technical experience, and want a no-brainer install, (My 74 year old mother was able to install a simple Ring Doorbell), Ring is for you.
+
+	Penn Gname
+Battery has lasted almost 5 months so far in cold winter weather. Very pleased.
+
+	Robert
+Bought another Ring camera to replace The old one that failed. Works great.
+
+	Jake
+Essential addition to the dad hacks toolkit. If you unscrew the silly stick up mount, it reveals a 1/4 20 thread point that you can use to attach it to any camera rig gear. I had mine connected to a friction arm and phone mount tonight for some supervised screen time.
+
+Pop unclamp it from any mounting point and move it where you need it. Hanging out in the back yard? Clamp this thing to the deck to cover your blind spots. Going camping? Connect it to your phone’s hotspot for tent nap monitoring. Pretty sure you’ve got a critter in your crawlspace? Clamp it to the joists for a few days and see what you capture. Running cables by yourself? Clamp this at the other end to watch guide the wires with video.
+
+The possibilities are endless. It even has another 1/4 20 thread mount on the back so you could even attach additional stuff to it. Motion activated light perhaps? Whatever you can think of. Have fun playing with your grip gear legos.
+
+	Tamara Duarte
+The batteries lasted longer than I anticipated. Easily replaced batteries . Some complain about how quickly the batteries run out but depending on your setting depends on how long they last . Also if you have back up batteries ( they are rechargeable) it’s a non issue and easily replaced .
+I have submitted a picture of night time vision and daytime . I’m completely satisfied with the pictures as well as the sound . It was also very easy to set up with my ring pro . I actually used the Ring flood pro chime as my connection route because my router is further away . Zero issues with the connection .
+I have this mounted ( I bought the brackets separately) in my chicken coop to monitor my ladies as I was adding new chickens and wanted to make sure they wouldn’t gang up on each other .
+I purchased my battery operated ring during prime week over the last Thanksgiving holiday so I got a great deal on them .. so as you can see the battery ( it warns you when it runs low ) has held for a month now . And again it’s no big deal to swap out batteries once they run low .
+Oh and it was very easy to integrate with my current ring system .
+
+	Knittermam
+I was hesitant that the solar panel would provide enough power for this camera as most solar products I buy are not great solar products (like landscape lights). However, this solar panel is excellent and fully powers my stick up camera. My battery stays 100% fully charged all the time, even on overcast days!
+
+	Danita Blankinship
+I liked that you could a long ways in the backyard.
+
+	Towanda's Reading Room
+Thank you so much. This product is every bit as good as I was told it would be
+
+	Murman
+Great peace of mind when you are not home.
+My home is my best investment and needs to be protected by having a Ring! Thankyou!
+
+	MARY J.
+Love this - added peace of mind at an affordable price.
+
+	R. L. B.
+This was so easy to setup, versatile and has many useable features. I recommend
+
+	aliyahlavengood
+Love ❤️ 😍 💖 ❣️
+Going to help give me peace of mind.
+
+	Tammy
+Works perfect and captures movement pretty accurately. It even has night vision so when it is pitch black outside at night we can still see what is going on. Highly recommend
+
+	Paul
+This is supposedly used, fantastic packaging looks brand new and at a reduced price! I'm getting another!
+
+	I love my purchase
+I know whos coming and going at all time
+
+	Ed
+I Switched to all ring cameras after installing a Ring Door Bell Gen 2. Excellent motion sensing control and great recordings.
+
+	Megha shyam
+Good product i i stalled it outside and it is working like a charm..
+
+	Kawarex
+Quality is there, pricey but worth it. Very easy install and operate, highly recommended.
+
+	Damon Judd
+I bought this on sale to try it out and very impressed so far. I have a Ring video doorbell already and wanted a camera for our large backyard. The camera was easy to attach to the side of the house and it captures the entire yard.
+
+	1701 D
+Ring are as advertised. Great camera for day or night, inside or out. Careful, the are addictive and I now have a nice collection of cameras. The annual cloud monitoring and video storage is same cost after the 2nd camera is added, so can have as many as you want. The motion detection even catches squirrels in the yard, my choice as you can change sensitivity. The person detection feature is accurate and I have set up to notify me, so will get a person has been detected alarm via my Alexa devices inside (have several of these too). Another great feature is that you can, yet again, easily adjust the detection zones so you screen out areas you do not want to monitor, such as street or public walkway.
+Love my ring system, and I do not use the higher priced plan with monitoring by Ring.
+
+	MamaS
+Picture is good. Motion detection good. Just so far 1 night the battery said "dead" so no recording was done when our other camera detected motion. Then next morning battery said 43%. Not sure what happened that night.
+
+	Norma Grigonis
+I didn’t realize its only power source is to plug in an electrical outlet and where I wanted it, didn’t have an outlet.
+
+
+	Bigvwd
+Good addition to overall security camera network. Are use as a monitor of backyard deck area activity. I suggest placement under a eve to avoid weather..
+
+	Wellington
+Works well with the ring app, no issues. Bit of a heavy camera but the view is great. Good video and sound quality.
+
+	Butterfly
+Works really well to watch for birds and butterflies. Solar and battery, so no need to run electricity.
+
+	Amazon Customer
+Turns out the cover for the security screw hole is pretty clean so it was hard to spot. This camera is pretty easy to install and has pretty decent picture quality.
+
+	Jacob Stein
+I've bought four of these and they are great. Fantastic quality and good customization. Gives me piece of mind and don't have to get up when someone is at the door haha
+
+	Frank The Tank
+Love the investment that has been made, it's a bit expensive but it's worth it. Installed if outside, looks professional and it's got good software. Quick release battery is a huge plus for me. 👏 Bravo for the company, plus it gets better if more people own a ring since I has a neighborhood app. It's a good investment if you like to keep nice things for yourself, like an unvandalized vehicle or an Amazon package. Must have for renters in substandard areas.
+
+	Jayme L. Moore
+I bought two of these battery powered stick up ring cameras to cover my apartment when I'm not home. They last a long time on a charge, and if you order the extra batteries, you'll never have any camera down time. The picture and audio is crystal clear, day or night, and it's super handy to be able to access from your phone. I even use it to check on my dog if I get stuck at work on overtime.
+
+	Tara
+This is exactly what you would expect it to be. We have a different brand of security cameras on all corners of our property, but they are mounted to the roof and as such don't get a very good close up. We already have a ring doorbell for the front door that we love, so we figured we might as well get a camera for the back. I really like that it is battery powered so we were able to mount it wherever we wanted. The stand is also pretty adjustable so we were able to get a good angle on bothe the door and our son's window a little bit farther down. I am pleased with the camera quality both in day and night, and I love the fact I can see both from my phone wherever I am. A bonus I didn't know about when I bought it: it has a built in alarm. I pray we never have to use it, but we were pleasantly surprised with how loud the alarm is and how we can turn it off and on from our phones to scare away intruders. We can also talk through the camera, which we were not aware of either. I do not believe I would have paid full price as there are comparable cameras on the market, but at the sale price it was definitely worth it!
+
+	David J Garcia
+I decided to give Ring a try, starting with just the doorbell camera. I immediately fell in love with it. I had previously used Blink cameras, but they were not satisfactory. They were slow in detecting motion and often failed to pick it up at all. Additionally, they would disconnect easily, which was frustrating. However, after replacing all of them with Ring, I have no complaints. The notifications are accurate and timely, the image quality is awesome, and the two-way speakers are very loud. Installation was also easy, and it perfectly integrates with the Ring security system. I can't wait to see what else Ring has in store.
+
+	Stumancan
+NEVER HOOKED IT UP
+
+	Eddie
+We already had a ring doorbell camera. It has been great for several years. These were to replace blink cameras.
+
+	Ray Clark & jannetabrahamclark
+This is a great addition to our other cameras we have. We love it because it is mobile we can put it anywhere the coverage works really well!
+
+	Devante G
+Solid camera easy to connect and the app is easy to manage. Never had any issues with Wi-Fi connect. Good battery. Battery will last depends on the feature that you have turned on such as motion detection. Night vision is ok not the best but you still be able to know what you a looking at.
+
+	Alex Florczyk
+Great products for my livestock. I can view day/ night and they do not have a bright light startling them! It is fantastic and I love being able to check in on my outside babies whenever!
+
+	Will
+I was already using some ring products and wanted an outdoor camera. I needed something wireless because of lack of a power source. I seen that you can use the solar panel with this camera so I got both items. It work perfectly. Both were easy to install. If you are considering this camera, consider getting the solar panel to keep this charged. You need to make sure when you are setting up the camera that you click on the solar panel/battery option for the power source.
+
+	Nicole Quinn
+Love this camera
+
+	Simplisticflow
+I have a door setup and this Mobil ring helps put it in places you would never think a camera is in. No wires make it much easier to use. I noticed by adjusting the sensitivity my battery lasted much longer. I use it in my car. As long as it connects to my wi fi, I am saving hundreds of dollars as opposed to the option of using the actual car ring that has its own seperate fee to operate it
+
+	Jade
+Love the Ring stick Cameras, it very clear and it a wide angle and all area can be covered. The cable does come with it, on the description was saying that it was not included
+
+	Meniscus
+UPDATE 4/21/2020 : It has taken some time, but with the assistance of Ring technical support (who contacted me, I did not have to contact them), I have finally managed to get the cameras working in an acceptable manner, it just takes trial and error, and most importantly, *a good wifi signal*.
+
+Motion detection technology itself still has room for improvement and I believe my initial expectations may have been a bit unrealistic. I did upgrade my router to a Netgear Nighthawk and that did noticeably improve my signal strength, which has resulted in more reliable and consistent recording; I strongly encourage you to test your wifi strength at the locations you have decided to mount the cameras, and if your reception is weak you should be prepared to either upgrade your router, add a mesh or repeater, or be willing to live with subpar performance from your camera.
+
+Here are some things I discovered in the course of a few hours of tweaking various settings:
+MOTION VERIFICATION - if you have this "On" you may end up with recordings that are "cut off at the beginning", for example rather than see a car pull into your driveway, driver get out, and walk to the house, you may only see the edge of the guy's shoulder move out of the picture and then a view of his car sitting there in the driveway. On the other hand, having this "Off" may cause trivial notifications, such as headlights passing by, insects flying in front of the camera, etc... I ended up with one camera having this turned off and the other two having it turned on to get the results I wanted.
+MOTION SENSITIVITY - Don't let the dramatic THIS IS GOING TO RUIN YOUR BATTERY LIFE! warning scare you, I had to set the motion sensitivity to about 70% to get my Side camera to pick up motion near the edge of the range, my other cameras were fine at around 30%. One way to think of this is, if you want to capture motion out towards the edge of the range of the camera, like a back yard, you should turn up the sensitivity; if you are using your camera to cover a smaller area like a back porch, a lower sensitivity will be fine.
+
+Be prepared for the batteries to not last "months", one of mine already needs to be recharged and the other two probably will by the end of May. But given the limits of current battery technology that's really not bad, I'm fine with it... just keep accessibility in mind when you mount these things because you will need to pull the batteries every 4-12 weeks and recharge them. I may pick up a spare battery.
+******************************************************************************
+
+I am very frustrated with these cameras so far. The only reason I haven't returned them (yet) is because there doesn't seem to be much of an alternative when it comes to battery powered cameras. I have spent way too much time tweaking the motion detection settings and the cameras are still doing stupid things like sending an alert when a tiny moth flies in front of the camera but doesn't detect when one of our kids gets into his car and pulls out of the driveway. If it's not going to detect someone getting into a car and driving off then so much for it being of any use as a security camera. I've relocated one of them once and the other one twice and it hasn't helped. I still get notifications and play back the video and see absolutely nothing happening, or they miss events that definitely should have been captured, I can see it being too sensitive or not sensitive enough, but how can it be wrong both ways?! It's like they are doing the exact opposite of what they are supposed to do, capturing what should be ignored and vice versa. And they're both doing it! On top of that, despite claims of battery life lasting for "weeks or months*, one camera is already down to 77% after being in use for only 6 days; the other is at 97%.
+
+If I can't get better results from these things by near the end of my 30 days, I'm sending them back. I will update with the final verdict... but I've all but given up.
+
+	kalynn
+Good quality and works great
+
+	Tai
+Glad to be able to purchase here and the price was right
+
+	doug
+Camera does not seem to be as wide angle as door cam.
+
+	Laura
+The quality is good and the solar panel works even it was snow yesterday. Maybe it is new. It it can change directory by iPhone control that would be much better.
+
+	Guy A. Cappuccio
+Additional camera were power want available without a lot of work. Solar panel works great without the need to pull batteries for charging.
+
+	Amazon Customer
+It does the job
+
+	William Bartlett
+So far it great!
+
+	Barbara C. Rankin
+I installed this battery cam in my crawl space with my water pump/softener so I can monitor them without having to be in the space.
+
+	Sue
+Works great
+
+	chad plante
+It would of been nice to know a cord can be added to this camera if needed. I ordered that and now have the best of both worlds
+
+	Amazon Customer
+Sent to granddaughter and she loves this. Can be moved anywhere and she feels safe.
+
+	Boss2
+Works great with Ring app, installs and easily setup.
+
+	Christopher jensen
+I fully recommend this camera out of its battery life alone. In dead cold winter it stays at 83%. It's incredible. It's hd and asks if you want to save it or not each time or you have the option I suppose. Great product.
+
+	Dawn
+Can see everything that is going on around my yard. Kids playing getting off school bus. Has been great since our house burnt down can watch anything going on from anywhere.
+
+
